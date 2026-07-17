@@ -1,0 +1,11 @@
+﻿# Real financial data - never commit
+icici_expenses_jul25_jul26.csv
+.category_cache.json
+
+# Generated outputs (regenerate on demand, don't need to be in git)
+spending_by_category.png
+spending_by_month.xlsx
+
+# Python
+__pycache__/
+*.pyc
